@@ -6,7 +6,7 @@ app = Flask(__name__)
 db_config = {
     'host': '10.160.11.32',
     'user': 'todo_user',
-    'password': 'D630@bynet',
+    'password': 'password',
     'database': 'tasks_db'
 }
 
